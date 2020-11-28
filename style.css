@@ -1,0 +1,69 @@
+body{
+    background-image: url(images/Hotels\ BG.jpg);
+    background-color:#2f3035;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.logo{
+    padding-top: 15px;
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header{height: 118px;
+    text-align: center;
+   }
+
+nav{
+    background-color: #1bf5ee3d;
+    padding: 14px 0px 14px 0px;
+    text-align: center;
+    display: block;
+    font-size: 14px;
+   }
+
+main{
+    margin-top: 20px;
+    height: 400px;
+    padding: 80px 240px 0px 240px;
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background-color:rgba(0, 0, 0, 0.664);
+    height: 50px;
+    font-size: 0.8rem;
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    color: #1bf5ee;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-size: 5.25rem;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.booking{
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bolder;
+}
+
+p{
+    font-family: 'Cabin', sans-serif;
+}
